@@ -1,0 +1,12 @@
+.card .userdp{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(105 100 182);
+    color: #fff;
+    border-radius: 50%;
+    line-height: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+
+}
